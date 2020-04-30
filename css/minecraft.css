@@ -1,0 +1,99 @@
+body
+{
+	margin: 0 0 0 0;
+}
+
+.header
+{
+	width: 100%;
+	height: 150px;
+	background-color: grey;
+	color: white;
+
+}
+
+.navigation
+{
+	width: 100%;
+	background-color: #a4adb7;
+}
+
+.tombolnav
+{
+	margin: 30px;
+	color: white;
+}
+
+.home
+{
+	width: 100%;
+	height: 1000px;
+	background-color: yellow; 
+}
+
+.footer
+{
+	width: 100%;
+	height: 100px;
+	background-color: orange;
+
+}
+
+.minecraftlogo
+{
+	width: 450px;
+	padding-top: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1
+{
+	text-align: left;
+	margin-left: 35px;	
+}
+.bee{
+	width: 500px;
+	height: 300px;
+	margin-left: 25px;
+	float: left;
+}
+.txt1{
+	padding: 10px 30px;
+	margin-left: 326px;
+  	background-color: black;
+  	color: white;
+  	float: left;
+}
+.aquatic{
+	width: 500px;
+	height: 300px;
+	padding-top: 20px;
+	margin-left: 25px;
+	float: left;
+}
+.txt2{
+	padding: 10px 30px;
+	margin-left: 222px;
+	margin-right: 500px;
+  	background-color: black;
+  	color: white;
+  	float: left;
+}
+.rtx{
+	width: 500px;
+	height: 300px;
+	margin-left: 300px;
+	float: left;
+}
+.txt3{
+	padding: 10px 30px;
+	margin-left: 502px;
+  	background-color: black;
+  	color: white;
+  	float: left;
+}
+i{
+	margin-top: 20px;
+	margin-left: 20px;
+}

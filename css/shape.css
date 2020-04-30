@@ -1,0 +1,100 @@
+body
+{
+	margin: 0 0 0 0;
+}
+
+.header
+{
+	width: 100%;
+	height: 150px;
+	background-color: grey;
+	color: white;
+
+}
+
+.navigation
+{
+	width: 100%;
+	background-color: #a4adb7;
+}
+
+.tombolnav
+{
+	margin: 30px;
+	color: white;
+}
+
+.home
+{
+	width: 100%;
+	height: 1000px;
+	background-color: yellow; 
+}
+
+.footer
+{
+	width: 100%;
+	height: 100px;
+	background-color: orange;
+
+}
+
+.minecraftlogo
+{
+	width: 450px;
+	padding-top: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.dragon
+{
+	width: 360px;
+	margin-top: 80px;
+	margin-left: 35px;
+	display: inline-block;
+	float: left;
+
+}
+
+.armor
+{
+	width: 270px;
+	margin-top: 30px;
+	margin-left: 100px;
+	display: inline-block;
+	float: left;
+}
+
+.items
+{
+	width: 450px;
+	margin-top: 30px;
+	margin-left: 100px;
+	display: inline-block;
+	float: left;
+}
+
+h3
+{
+	text-align: left;
+	margin-left: 35px;
+}
+
+h1
+{
+	text-align: left;
+	margin-left: 35px;
+}
+
+h4
+{
+	text-align: left;
+	margin-left: 35px;
+	float: left;	
+}
+i{
+	margin-top: 20px;
+	margin-left: 20px;
+}
